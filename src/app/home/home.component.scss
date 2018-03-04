@@ -1,0 +1,65 @@
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 30vh;
+    padding-bottom: 60vh;
+    margin: 0;
+    padding-left: 0;
+    color: #fff;
+    overflow-x: hidden;
+    text-shadow:2px -1px 3px #000;
+}
+
+.hero-parallax {
+    background-image: url('../../assets/img/bg-hero1.jpeg');
+}
+
+strong {
+    color:#1de9b6;
+
+}
+
+strong font {
+    color: #4285F4;
+
+}
+
+strong span {
+    color: #fff;
+}
+
+.about {
+    padding:2em 0 2em 0;
+}
+
+.control-top {
+    text-align: center;
+}
+
+.btn-floating {
+    padding: 2em;
+}
+
+.team {
+    background-image: url('../../assets/img/abcde.jpg');
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.team-section {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.row {
+    padding-top: 0;
+}
+
